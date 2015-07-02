@@ -1,2 +1,0 @@
-Hi this is my first time creating a text file from the terminal. See you later. Ciao
-
